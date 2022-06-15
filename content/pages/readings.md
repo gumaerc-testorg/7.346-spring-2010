@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Citations for the two journal articles assigned for each session are
+  provided in this section.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Welcome and Overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor1)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor1" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ no readings
 
 Introduction to RNAi
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor2)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor2" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Winston, W. M., C. Molodowitch, and C. P. Hunter. "[Systemic RNAi in _C. elegans
 
 Hints of the Future: The Discovery of miRNAs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor3)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor3" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ Lai, E. C. "[Micro RNAs are Complementary to 3' UTR Sequence Motifs that Mediate
 
 Mechanisms: Dicing and Slicing
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor4)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor4" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +136,7 @@ Wang, Y., S. Juranek, H. Li, G. Sheng, T. Tuschl, and D. J. Patel. "[Structure o
 
 How miRNAs Relate to siRNAs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor5)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor5" %}}
 
 
 {{< tdclose >}}
@@ -162,7 +164,7 @@ Meister, G., M. Landthaler, A. Patkaniowska, Y. Dorsett, G. Teng, and T. Tuschl.
 
 RNAi in the Lab I: shRNA, siRNA, and miRNA Mimics
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor6)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor6" %}}
 
 
 {{< tdclose >}}
@@ -190,7 +192,7 @@ Brummelkamp, T. R., R. Bernards, and R. Agami. ["A System for Stable Expression 
 
 RNAi in the Lab II: Screening for Hits
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor7)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor7" %}}
 
 
 {{< tdclose >}}
@@ -218,7 +220,7 @@ Hu, G., J. Kim, Q. Xu, Y. Leng, S. H. Orkin, and S. J. Elledge. "[A Genome-Wide 
 
 Company Visit: [Alnylam](http://www.ncbi.nlm.nih.gov/pubmed/11910072?itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum&ordinalpos=20605)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor8)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor8" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +238,7 @@ no readings
 
 RNAi Therapeutics I: Selecting Targets
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor9)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor9" %}}
 
 
 {{< tdclose >}}
@@ -264,7 +266,7 @@ Chen, P. Y., L. Weinmann, D. Gaidatzis, Y. Pei, M. Zavolan, T. Tuschl, and G. Me
 
 RNAi Therapeutics II: The Importance of Chemistry
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor10)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor10" %}}
 
 
 {{< tdclose >}}
@@ -292,7 +294,7 @@ Bramsen, J. B., et al. "[A Large-Scale Chemical Modification Screen Identifies D
 
 RNAi Therapeutics III: Efficacy in Animals
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor11)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor11" %}}
 
 
 {{< tdclose >}}
@@ -320,7 +322,7 @@ Soutschek, J., et al. "[Therapeutic Silencing of An Endogenous Gene by Systemic 
 
 RNAi Therapeutics IV: Safety First
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor12)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor12" %}}
 
 
 {{< tdclose >}}
@@ -348,7 +350,7 @@ John, M., et al. "[Effective RNAi-Mediated Gene Silencing Without Interruption o
 
 RNAi Therapeutics V: Delivery, Delivery, Delivery
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor13)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor13" %}}
 
 
 {{< tdclose >}}
@@ -376,7 +378,7 @@ Wolfrum, C., et al. "[Mechanisms and Optimization of _in vivo_ Delivery of Lipop
 
 Oral Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Anchor14)
+{{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor14" %}}
 
 
 {{< tdclose >}}
