@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section describes both the written and oral assignments for the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: af305ad8-eba2-85d4-366b-c61456bcf674
 ---
