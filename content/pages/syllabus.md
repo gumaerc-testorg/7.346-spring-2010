@@ -124,7 +124,7 @@ RNAi in the Lab II: Screening for Hits
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Company Visit: [Alnylam](http://www.alnylam.com/)
+Company Visit: {{% resource_link "2167e5c2-a3b7-4205-9291-9fb4ad9d391b" "Alnylam" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

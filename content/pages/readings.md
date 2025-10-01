@@ -61,11 +61,11 @@ Introduction to RNAi
 
 ### Paper 1
 
-Fire, A., S. Xu, M. K. Montgomery, S. A. Kostas, S. E. Driver, and C. C. Mello. "[Potent and Specific Genetic Interference by Double-Stranded RNA in Caenorhabditis Elegans](http://www.ncbi.nlm.nih.gov/pubmed/9486653)." _Nature_ 391 (1998): 806-811.
+Fire, A., S. Xu, M. K. Montgomery, S. A. Kostas, S. E. Driver, and C. C. Mello. "{{% resource_link "2d32622c-512f-4b39-b4c4-09bc453689cf" "Potent and Specific Genetic Interference by Double-Stranded RNA in Caenorhabditis Elegans" %}}." _Nature_ 391 (1998): 806-811.
 
 ### Paper 2
 
-Winston, W. M., C. Molodowitch, and C. P. Hunter. "[Systemic RNAi in _C. elegans_ Requires the Putative Transmembrane Protein SID-1](http://www.ncbi.nlm.nih.gov/pubmed/11834782)." _Science_ 295 (2002): 2456-2459.
+Winston, W. M., C. Molodowitch, and C. P. Hunter. "{{% resource_link "ad4ac664-5151-487c-9500-e5fc81919ef7" "Systemic RNAi in _C. elegans_ Requires the Putative Transmembrane Protein SID-1" %}}." _Science_ 295 (2002): 2456-2459.
 
 
 {{< tdclose >}}
@@ -89,11 +89,11 @@ Hints of the Future: The Discovery of miRNAs
 
 ### Paper 1
 
-Lee, R. C., R. L. Feinbaum, and V. A. Ambros. "[The _C. elegans_ Heterochronic Gene _lin_\-4 Encodes Small RNAs with Antisense Complementarity to _lin_\-14](http://www.ncbi.nlm.nih.gov/pubmed/8252621)." _Cell_ 75 (1993): 843-854.
+Lee, R. C., R. L. Feinbaum, and V. A. Ambros. "{{% resource_link "6a3157af-928e-40d4-b984-bb83cac1c049" "The _C. elegans_ Heterochronic Gene _lin_\-4 Encodes Small RNAs with Antisense Complementarity to _lin_\-14" %}}." _Cell_ 75 (1993): 843-854.
 
 ### Paper 2
 
-Lai, E. C. "[Micro RNAs are Complementary to 3' UTR Sequence Motifs that Mediate Negative Post-Transcriptional Regulation](http://www.ncbi.nlm.nih.gov/pubmed/11896390)." _Nature Genetics_ 30 (2002): 363-364.
+Lai, E. C. "{{% resource_link "9c76570a-8dc7-41c5-8a74-0151e015707e" "Micro RNAs are Complementary to 3' UTR Sequence Motifs that Mediate Negative Post-Transcriptional Regulation" %}}." _Nature Genetics_ 30 (2002): 363-364.
 
 
 {{< tdclose >}}
@@ -117,11 +117,11 @@ Mechanisms: Dicing and Slicing
 
 ### Paper 1
 
-MacRae, I. J., K. Zhou, F. Li, A. Repic, A. N. Brooks, W. Z. Cande, P. D. Adams, and J. A. Doudna. "[Structural Determinants of RNA Recognition and cleavage by Dicer](http://www.ncbi.nlm.nih.gov/pubmed/17873886)." _Nature Structural and Molecular Biology_ 14 (2007): 934-940.
+MacRae, I. J., K. Zhou, F. Li, A. Repic, A. N. Brooks, W. Z. Cande, P. D. Adams, and J. A. Doudna. "{{% resource_link "d50eebf9-34bf-43ea-840c-a39849d50d92" "Structural Determinants of RNA Recognition and cleavage by Dicer" %}}." _Nature Structural and Molecular Biology_ 14 (2007): 934-940.
 
 ### Paper 2
 
-Wang, Y., S. Juranek, H. Li, G. Sheng, T. Tuschl, and D. J. Patel. "[Structure of an Argonaute Silencing Complex with a Seed-Containing Guide DNA and Target RNA Duplex](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765400/)." _Nature_ 456 (2008): 921-926.
+Wang, Y., S. Juranek, H. Li, G. Sheng, T. Tuschl, and D. J. Patel. "{{% resource_link "971ba2d1-084e-4a2d-981b-1b328d80557e" "Structure of an Argonaute Silencing Complex with a Seed-Containing Guide DNA and Target RNA Duplex" %}}." _Nature_ 456 (2008): 921-926.
 
 
 {{< tdclose >}}
@@ -145,11 +145,11 @@ How miRNAs Relate to siRNAs
 
 ### Paper 1
 
-Doench, J. G., C. P. Petersen, and P. A. Sharp. "[siRNAs Can Function as MiRNAs](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC195999/?tool=pubmed)." _Genes & Development_ 17 (2003): 438-442.
+Doench, J. G., C. P. Petersen, and P. A. Sharp. "{{% resource_link "e52f5fb6-27a7-4afe-a7da-f38585f19868" "siRNAs Can Function as MiRNAs" %}}." _Genes & Development_ 17 (2003): 438-442.
 
 ### Paper 2
 
-Meister, G., M. Landthaler, A. Patkaniowska, Y. Dorsett, G. Teng, and T. Tuschl. ["Human Argonaute2 Mediates RNA Cleavage Targeted by MiRNAs and siRNAs](http://www.ncbi.nlm.nih.gov/pubmed/15260970)." _Molecular Cell_ 15 (2004): 185-197.
+Meister, G., M. Landthaler, A. Patkaniowska, Y. Dorsett, G. Teng, and T. Tuschl. {{% resource_link "0649914f-914b-4870-aeaf-28f45c347588" "\"Human Argonaute2 Mediates RNA Cleavage Targeted by MiRNAs and siRNAs" %}}." _Molecular Cell_ 15 (2004): 185-197.
 
 
 {{< tdclose >}}
@@ -173,11 +173,11 @@ RNAi in the Lab I: shRNA, siRNA, and miRNA Mimics
 
 ### Paper 1
 
-Elbashir, S. M., J. Harborth, W. Lendeckel, A. Yalcin, K. Weber, and T. Tuschl. "[Duplexes of 21-Nucleotide RNAs Mediate RNA Interference in Cultured Mammalian Cells](http://www.ncbi.nlm.nih.gov/pubmed/11373684)." _Nature_ 411 (2001): 494-498.
+Elbashir, S. M., J. Harborth, W. Lendeckel, A. Yalcin, K. Weber, and T. Tuschl. "{{% resource_link "b53e4976-fd9d-49ce-9469-8e5751f9c362" "Duplexes of 21-Nucleotide RNAs Mediate RNA Interference in Cultured Mammalian Cells" %}}." _Nature_ 411 (2001): 494-498.
 
 ### Paper 2
 
-Brummelkamp, T. R., R. Bernards, and R. Agami. ["A System for Stable Expression of Short Interfering RNAs in Mammalian Cells](http://www.ncbi.nlm.nih.gov/pubmed/11910072?itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum&ordinalpos=20605)." _Science_ 296 (2002): 550-553.
+Brummelkamp, T. R., R. Bernards, and R. Agami. {{% resource_link "d77a453f-0b62-4f69-96f2-141c8e18d3e5" "\"A System for Stable Expression of Short Interfering RNAs in Mammalian Cells" %}}." _Science_ 296 (2002): 550-553.
 
 
 {{< tdclose >}}
@@ -201,11 +201,11 @@ RNAi in the Lab II: Screening for Hits
 
 ### Paper 1
 
-Silva, J. M., K. Marran, J. S. Parker, J. Silva, M. Golding, M. R. Schlabach, S. J. Elledge, G. J. Hannon, and K. Chang. "[Profiling Essential Genes in Human Mammary Cells by Multiplex RNAi Screening](http://www.ncbi.nlm.nih.gov/pubmed/18239125)." _Science_ 319 (2008): 617-620.
+Silva, J. M., K. Marran, J. S. Parker, J. Silva, M. Golding, M. R. Schlabach, S. J. Elledge, G. J. Hannon, and K. Chang. "{{% resource_link "9008df9d-8f0f-44b5-8e1f-0db9426ffe26" "Profiling Essential Genes in Human Mammary Cells by Multiplex RNAi Screening" %}}." _Science_ 319 (2008): 617-620.
 
 ### Paper 2
 
-Hu, G., J. Kim, Q. Xu, Y. Leng, S. H. Orkin, and S. J. Elledge. "[A Genome-Wide RNAi Screen Identifies a New Transcriptional Module Required for Self-Renewal](http://www.ncbi.nlm.nih.gov/pubmed/19339689)." _Genes & Development_ 23 (2009): 837-848.
+Hu, G., J. Kim, Q. Xu, Y. Leng, S. H. Orkin, and S. J. Elledge. "{{% resource_link "db07581e-5b1f-415f-99ef-a44bf588de87" "A Genome-Wide RNAi Screen Identifies a New Transcriptional Module Required for Self-Renewal" %}}." _Genes & Development_ 23 (2009): 837-848.
 
 
 {{< tdclose >}}
@@ -218,7 +218,7 @@ Hu, G., J. Kim, Q. Xu, Y. Leng, S. H. Orkin, and S. J. Elledge. "[A Genome-Wide 
 {{< tdopen >}}
 
 
-Company Visit: [Alnylam](http://www.ncbi.nlm.nih.gov/pubmed/11910072?itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum&ordinalpos=20605)
+Company Visit: {{% resource_link "d77a453f-0b62-4f69-96f2-141c8e18d3e5" "Alnylam" %}}
 
 {{% resource_link 97725fcb-e248-b21f-a52b-09548b77bd35 "See the Lecture Summary" "#Anchor8" %}}
 
@@ -247,11 +247,11 @@ RNAi Therapeutics I: Selecting Targets
 
 ### Paper 1
 
-Jackson, A. L., S. R. Bartz, J. Schelter, S. V. Kobayashi, J. Burchard, M. Mao, B. Li, G. Cavet, and P. S. Linsley. "[Expression Profiling Reveals off-Target Gene Regulation by RNAi](http://www.ncbi.nlm.nih.gov/pubmed/12754523)." _Nature Biotechnology_ 21 (2003): 635-637.
+Jackson, A. L., S. R. Bartz, J. Schelter, S. V. Kobayashi, J. Burchard, M. Mao, B. Li, G. Cavet, and P. S. Linsley. "{{% resource_link "389f11c2-6102-4d63-9db8-bfdce7fa685c" "Expression Profiling Reveals off-Target Gene Regulation by RNAi" %}}." _Nature Biotechnology_ 21 (2003): 635-637.
 
 ### Paper 2
 
-Chen, P. Y., L. Weinmann, D. Gaidatzis, Y. Pei, M. Zavolan, T. Tuschl, and G. Meister. "[Strand-Specific 5'-O-Methylation of siRNA Duplexes Controls Guide Strand Selection and Targeting Specificity](http://www.ncbi.nlm.nih.gov/pubmed/18094121)." _RNA_ 14 (2007): 263-274.
+Chen, P. Y., L. Weinmann, D. Gaidatzis, Y. Pei, M. Zavolan, T. Tuschl, and G. Meister. "{{% resource_link "0689645a-fc1d-41b0-bd7d-0d201dce317c" "Strand-Specific 5'-O-Methylation of siRNA Duplexes Controls Guide Strand Selection and Targeting Specificity" %}}." _RNA_ 14 (2007): 263-274.
 
 
 {{< tdclose >}}
@@ -275,11 +275,11 @@ RNAi Therapeutics II: The Importance of Chemistry
 
 ### Paper 1
 
-Czauderna, F., M. Fechtner, S. Dames, H. Aygün, A. Klippel, G. J. Pronk, K. Giese, and J. Kaufmann. "[Structural Variations and Stabilising Modifications of Synthetic siRNAs in Mammalian Cells](http://nar.oxfordjournals.org/cgi/content/short/31/11/2705)." _Nucleic Acids Research_ 31 (2003): 2705-2716.
+Czauderna, F., M. Fechtner, S. Dames, H. Aygün, A. Klippel, G. J. Pronk, K. Giese, and J. Kaufmann. "{{% resource_link "598428bc-e128-4a6b-8750-d73c43fc3ca9" "Structural Variations and Stabilising Modifications of Synthetic siRNAs in Mammalian Cells" %}}." _Nucleic Acids Research_ 31 (2003): 2705-2716.
 
 ### Paper 2
 
-Bramsen, J. B., et al. "[A Large-Scale Chemical Modification Screen Identifies Design Rules to Generate siRNAs with High Activity, High Stability and Low Toxicity](http://www.ncbi.nlm.nih.gov/pubmed/19282453)." _Nucleic Acids Research_ 37 (2009): 2867-2881.
+Bramsen, J. B., et al. "{{% resource_link "a1f73c72-8169-43d7-a958-20aa8eebeb0b" "A Large-Scale Chemical Modification Screen Identifies Design Rules to Generate siRNAs with High Activity, High Stability and Low Toxicity" %}}." _Nucleic Acids Research_ 37 (2009): 2867-2881.
 
 
 {{< tdclose >}}
@@ -303,11 +303,11 @@ RNAi Therapeutics III: Efficacy in Animals
 
 ### Paper 1
 
-McCaffrey, A. P., L. Meuse, T. T. Pham, D. S. Conklin, G. J. Hannon, and M. A. Kay. ["RNA Interference in Adult Mice](http://www.ncbi.nlm.nih.gov/pubmed/12097900)." _Nature_ 418 (2002): 38-39.
+McCaffrey, A. P., L. Meuse, T. T. Pham, D. S. Conklin, G. J. Hannon, and M. A. Kay. {{% resource_link "556ab3f1-b62b-41af-8f13-38c09a6c8e84" "\"RNA Interference in Adult Mice" %}}." _Nature_ 418 (2002): 38-39.
 
 ### Paper 2
 
-Soutschek, J., et al. "[Therapeutic Silencing of An Endogenous Gene by Systemic Administration of Modified siRNAs](http://www.ncbi.nlm.nih.gov/pubmed/15538359)." _Nature_ 432 (2004): 173-178.
+Soutschek, J., et al. "{{% resource_link "8df042c1-b2d8-4146-b926-12d67228659b" "Therapeutic Silencing of An Endogenous Gene by Systemic Administration of Modified siRNAs" %}}." _Nature_ 432 (2004): 173-178.
 
 
 {{< tdclose >}}
@@ -331,11 +331,11 @@ RNAi Therapeutics IV: Safety First
 
 ### Paper 1
 
-Grimm, D., K. L. Streetz, C. L. Jopling, T. A. Storm, K. Pandey, C. R. Davis, P. Marion, F. Salazar, and M. A. Kay. "[Fatality in Mice Due to Oversaturation of Cellular microRNA/Short Hairpin RNA Pathways](http://www.ncbi.nlm.nih.gov/pubmed/16724069)." _Nature_ 441 (2006): 537-541.
+Grimm, D., K. L. Streetz, C. L. Jopling, T. A. Storm, K. Pandey, C. R. Davis, P. Marion, F. Salazar, and M. A. Kay. "{{% resource_link "b89610e5-a5e5-47b4-93ba-9900b4299208" "Fatality in Mice Due to Oversaturation of Cellular microRNA/Short Hairpin RNA Pathways" %}}." _Nature_ 441 (2006): 537-541.
 
 ### Paper 2
 
-John, M., et al. "[Effective RNAi-Mediated Gene Silencing Without Interruption of the Endogenous microRNA Pathway](http://www.ncbi.nlm.nih.gov/pubmed/17898712)." _Nature_ 449 (2007): 745-747.
+John, M., et al. "{{% resource_link "62a98887-cf52-4cd9-b308-596564267972" "Effective RNAi-Mediated Gene Silencing Without Interruption of the Endogenous microRNA Pathway" %}}." _Nature_ 449 (2007): 745-747.
 
 
 {{< tdclose >}}
@@ -359,11 +359,11 @@ RNAi Therapeutics V: Delivery, Delivery, Delivery
 
 ### Paper 1
 
-Hu-Lieskovan, S., J. D. Heidel, D. W. Bartlett, M. E. Davis, and T. J. Triche. "[Sequence-Specific Knockdown of EWS-FLI1 by Targeted, Nonviral Delivery of Small Interfering RNA Inhibits Tumor Growth in a Murine Model of Metastatic Ewing's Sarcoma](http://www.ncbi.nlm.nih.gov/pubmed/16204072?itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum&ordinalpos=9)." _Cancer Research_ 65 (2005): 8984-8992.
+Hu-Lieskovan, S., J. D. Heidel, D. W. Bartlett, M. E. Davis, and T. J. Triche. "{{% resource_link "e7b25c1a-027b-4087-a7db-fcb7f0f8668d" "Sequence-Specific Knockdown of EWS-FLI1 by Targeted, Nonviral Delivery of Small Interfering RNA Inhibits Tumor Growth in a Murine Model of Metastatic Ewing's Sarcoma" %}}." _Cancer Research_ 65 (2005): 8984-8992.
 
 ### Paper 2
 
-Wolfrum, C., et al. "[Mechanisms and Optimization of _in vivo_ Delivery of Lipophilic siRNAs](http://www.ncbi.nlm.nih.gov/pubmed/17873866)." _Nature Biotechnology_ 25 (2007): 1149-1157.
+Wolfrum, C., et al. "{{% resource_link "02fc5d26-34f3-4702-9d05-63067c64de6b" "Mechanisms and Optimization of _in vivo_ Delivery of Lipophilic siRNAs" %}}." _Nature Biotechnology_ 25 (2007): 1149-1157.
 
 
 {{< tdclose >}}
